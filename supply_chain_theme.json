@@ -1,0 +1,44 @@
+{
+  "name": "Supply Chain Executive Slate",
+  "dataColors": [
+    "#1E3A8A",
+    "#0284C7",
+    "#64748B",
+    "#D97706",
+    "#0D9488",
+    "#475569",
+    "#94A3B8",
+    "#E11D48"
+  ],
+  "visualStyles": {
+    "tableEx": {
+      "*": {
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "backColor": { "solid": { "color": "#1E293B" } },
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "grid": [
+          {
+            "gridVertical": false,
+            "gridHorizontal": true,
+            "gridHorizontalColor": { "solid": { "color": "#E2E8F0" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E2E8F0" } },
+            "radius": 8
+          }
+        ]
+      }
+    }
+  }
+}

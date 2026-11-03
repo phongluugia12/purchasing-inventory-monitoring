@@ -1,0 +1,37 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+profiles.yml
+*.pem
+*.key
+
+# Database backups, database files and installers are not portfolio artifacts
+*.bak
+*.bacpac
+*.mdf
+*.ndf
+*.ldf
+*.exe
+*.msi
+*.iso
+
+# Local runtime files
+.venv/
+__pycache__/
+*.log
+*.dump
+*.list
+*.bak
+
+demo dashboard.pdf
+portfolio-review.md
+roadmap-check.md
+completion-plan.md
+PROJECT_PLAN.md
+preview_readme.html
+*.mp4
+*.pdf
+*.ps1
+dashboard-demo-2.gif
+dashboard-demo-compressed.gif
