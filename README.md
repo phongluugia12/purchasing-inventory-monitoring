@@ -216,7 +216,6 @@ My work covers restoring the existing archive, profiling the source data, creati
 ### Tools used
 
 - PostgreSQL, hosted on Supabase, with DBeaver as the SQL client.
-- SQL scripts and the restore command were checked locally with **PostgreSQL 18.4**.
 - The report was checked with **Power BI Desktop 2.155.756.0**.
 
 ### Restore the sample
